@@ -1,8 +1,9 @@
 # SENG 474 Course Project Github Repository
 
-# Instructor: Alex Thomo
+## Instructor: 
+Alex Thomo
 
-# Project Team Members: 
+## Project Team Members: 
 Xingyun Chen (v00855160), 
 Nero Lan (v00844702),
 Zhangze Chen (v00019174)
